@@ -110,11 +110,9 @@ ___
 ___
 Итак, если по какой-то причине при создании проекта JDK не определен системой IntelliJ IDEA автоматически, требуется выбрать Add JDK и указать путь к директории
 
-[![Project-3.png](https://i.postimg.cc/7LdB81Vw/Project-3.png)](https://postimg.cc/mc337HJ5)
-
 Если пакета нет, нужно выбрать пункт Download JDK. Затем в ниспадающем списке — тип и версию пакета, и нажать Download.
 
-[![Project-4.png](https://i.postimg.cc/4dwr92RZ/Project-4.png)](https://postimg.cc/DJJjVgzY)
+[![Project-5.png](https://i.postimg.cc/BbyYVKJy/Project-5.png)](https://postimg.cc/sGY4B1Q9)
 ___
 Давайте познакомимся со структурой проекта, которую мы можем найти на левой панели.
 
