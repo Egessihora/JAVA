@@ -1,9 +1,9 @@
 ### Оглавление
-1. [Java Development Kit](#java-development-kit)
-2. [IntelliJ IDEA](#intellij-idea)
+1. [Установка Java](#Установка-Java)
+2. [Установка IntelliJ IDEA](#Установка-intellij-idea)
 3. [Создание проекта](#Создание-проекта)
 
-## Java Development Kit
+## Установка Java
 1. Для установки Java открываем сайт www.oracle.com и заходим в раздел **Products**
 
 [![Java-1.png](https://i.postimg.cc/yxPYvGBS/Java-1.png)](https://postimg.cc/BPj0vMjq)
@@ -35,7 +35,7 @@ java -version
 
 ⬆️[Оглавление](#оглавление)
 ___
-## IntelliJ IDEA
+## Установка IntelliJ IDEA
 Также нам потребуется удобная среда разработки. Сред разработки много разных, но мы рассмотрим самую популярную - **IntelliJ IDEA**
 ___
 IntelliJ IDEA - это IDE, интегрированная среда разработки (комплекс программных средств, который используется для написания, исполнения, отладки и оптимизации кода) для Java, JavaScript, Python и других языков программирования от компании JetBrains. Отличается обширным набором инструментов для рефакторинга (перепроектирования) и оптимизации кода.
