@@ -76,7 +76,9 @@ class MyClass {
 
 Вывод фразы «Hello World!» представлен ниже:
 
-```System.out.print("Hello World!");```
+```
+System.out.print("Hello World!");
+```
 
 Здесь:
 - сперва происходит обращение к классу System,
